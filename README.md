@@ -2,8 +2,8 @@
 
 # Projektdokumente
 ## Dispositiv
-## Use Case Diagramm
-[Eingereichte Projektidee (Kurzspezifikation)](https://github.com/cloud4bspace/CTW/blob/master/MobileApp_Projektidee_Kaulitz%26Kaempf.pdf)
+## Use Case Diagram
+[Use Case Diagram (Entwurf)](https://github.com/cloud4bspace/AuditInsight/blob/main/UCDAuditInsight.pdf)
 ## Klassendiagramm
 [Klassendiagramm (Entwurf)](https://github.com/cloud4bspace/AuditInsight/blob/main/Klassendiagramm.pdf)
 ## Visualisierungen
